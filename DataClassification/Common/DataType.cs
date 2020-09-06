@@ -1,6 +1,6 @@
 ﻿namespace Common
 {
-    enum DataType
+    public enum DataType
     {
         Public,
         Confidential
