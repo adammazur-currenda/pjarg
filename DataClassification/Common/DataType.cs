@@ -3,6 +3,6 @@
     enum DataType
     {
         Public,
-        Confident
+        Confidential
     }
 }
